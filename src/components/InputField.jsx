@@ -16,7 +16,6 @@ class InputField extends Component{
         return (
             <>
             <h1>Reham new input</h1>
-            <h2>this is going to be reverted</h2>
                 <input placeholder=""
                        type="text"
                        value={this.state.text}

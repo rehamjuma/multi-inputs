@@ -25,6 +25,7 @@ class InputField extends Component{
                  />
                 <br/>
                 <h3>new comment shouldn't be reverted</h3>
+                <h3>new comment shouldn't be reverted #2</h3>
             </>
             
         )

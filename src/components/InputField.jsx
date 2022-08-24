@@ -15,6 +15,8 @@ class InputField extends Component{
     render(){
         return (
             <>
+            <h1>this commit going to be reverted</h1>
+            <h1>Reham new input</h1>
                 <input placeholder=""
                        type="text"
                        value={this.state.text}

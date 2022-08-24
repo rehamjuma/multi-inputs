@@ -24,7 +24,9 @@ class InputField extends Component{
                        disabled ={!this.props.isEditable}
                  />
                 <br/>
+                <h3>new comment shouldn't be reverted</h3>
             </>
+            
         )
     }
 }
